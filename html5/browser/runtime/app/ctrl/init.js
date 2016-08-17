@@ -68,7 +68,7 @@ export function init (app, code, data) {
       'render',
       '__weex_define__', // alias for define
       '__weex_bootstrap__', // alias for bootstrap
-      '__weex_document__', // alias for bootstrap
+      '__weex_document__',
       '__weex_require__',
       functionBody
     )
